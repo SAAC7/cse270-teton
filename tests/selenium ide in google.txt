@@ -1,0 +1,1 @@
+Hello, I am adding this text because the Selenium IDE extension is not available for Google Chrome, so I used Firefox to create everything and then modified the code in Python so that it would not be Firefox and would run well on GitHub.
